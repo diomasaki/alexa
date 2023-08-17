@@ -1,0 +1,59 @@
+{
+  "hash": "381fb707",
+  "browserHash": "d74d325f",
+  "optimized": {
+    "@material-ui/core": {
+      "src": "../../node_modules/@material-ui/core/esm/index.js",
+      "file": "@material-ui_core.js",
+      "fileHash": "54a3421c",
+      "needsInterop": false
+    },
+    "@material-ui/icons": {
+      "src": "../../node_modules/@material-ui/icons/esm/index.js",
+      "file": "@material-ui_icons.js",
+      "fileHash": "8e8c9b82",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "1bccb123",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "05b394de",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/esm/react-router-dom.js",
+      "file": "react-router-dom.js",
+      "fileHash": "8da6c10c",
+      "needsInterop": false
+    },
+    "styled-components": {
+      "src": "../../node_modules/styled-components/dist/styled-components.browser.esm.js",
+      "file": "styled-components.js",
+      "fileHash": "8c547893",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KUK3RMY6": {
+      "file": "chunk-KUK3RMY6.js"
+    },
+    "chunk-TC5RONZ3": {
+      "file": "chunk-TC5RONZ3.js"
+    },
+    "chunk-SYEFAYMG": {
+      "file": "chunk-SYEFAYMG.js"
+    },
+    "chunk-RPX74UBI": {
+      "file": "chunk-RPX74UBI.js"
+    },
+    "chunk-CGBBZGQ5": {
+      "file": "chunk-CGBBZGQ5.js"
+    }
+  }
+}
