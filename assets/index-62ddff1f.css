@@ -1,0 +1,1 @@
+.formInput{display:flex;flex-direction:column}span.pn{margin-bottom:25px;color:red;display:none}input.inp{padding:15px;width:300px;margin:10px 0}input:invalid[focused=true]~span{display:block}
